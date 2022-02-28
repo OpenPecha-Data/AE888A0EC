@@ -1,0 +1,26 @@
+segment_sources:
+  P05635848:
+    type: origin_type
+    relation: translation
+    language: en
+  PD4DBB8BD:
+    type: origin_type
+    relation: translation
+    language: zh
+  P87AE4906:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  474d83cd6e454d4da9f382591b1b5117:
+    P05635848: 4416bee5c90c49bd99ef86584605763e
+    PD4DBB8BD: 88d317a3c72f4373a2476b724ac1f8a1
+    P87AE4906: c892f930abe1497b8c5c43d84df1906a
+  9cd7b07d1b5c4c8e861b3201ed0fc600:
+    P05635848: 950b70b6e85a42b28e8aa2b7f1905b1a
+    PD4DBB8BD: 706981d65ccf412a9aa148ff7ed56c6c
+    P87AE4906: a783084a6ba34e27b10fca80a5e782d9
+  32035a5b88c242578bc148c1643821e1:
+    P05635848: 4027ef882b5346c6a21a3e0e8ab37ffe
+    PD4DBB8BD: de223e6e70f14ce1bcf1f296e95edd3d
+    P87AE4906: 51d681e0a1ce496893bc25919399da2b
